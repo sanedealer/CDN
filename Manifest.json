@@ -1,0 +1,13 @@
+{
+  "name": "Sanephix",
+  "description": "Create stunning motion graphics and websites.",
+  "start_url": "/",
+  "lang": "en-US",
+  "theme_color": "#00000",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://uploads-ssl.webflow.com/66571845327341029293a4f9/667053217ec9c1ef751b3951_manifest%20192.png"
+    }
+  ]
+}
