@@ -3,6 +3,7 @@
   "description": "Create stunning motion graphics and websites.",
   "start_url": "https://sanephixv2.webflow.io",
   "lang": "en-US",
+  "background_color": "black",
   "theme_color": "black",
   "display": "standalone",
   "icons": [
