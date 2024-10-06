@@ -1,1 +1,20 @@
-{"theme_color":"#000000","background_color":"#000000","icons":[{"purpose":"any","src":"/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/sanephix:icon512_maskable.png/full","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"en-US","name":"Sanephix","short_name":"SX","start_url":"https://app.sanephix.com","scope":"https://app.sanephix.com/"}
+{
+  "name": "Sanephix",
+  "short_name": "SX",
+  "lang": "en-US",
+  "dir": "auto",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/sanephix:icon512_maskable.png/full",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
