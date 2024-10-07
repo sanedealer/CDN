@@ -2,4 +2,4 @@
 setInterval(() => {
     // Send a message back to the main thread every 3 seconds
     self.postMessage({ message: 'Ping', timestamp: Date.now() });
-}, 3000);
+}, 1000);
