@@ -11,7 +11,7 @@
   "scope": "/",
   "icons": [
     {
-      "src": "https://github.com/sanedealer/CDN/blob/f557b48e4063d7bc80f2cb820c6b07f076404013/manifest_and_icons/icon512_maskable_2.png",
+      "src": "/cdn-cgi/imagedelivery/ZIty0Vhmkm0nD-fBKJrTZQ/sanephix:icon512_maskable_2.png/full",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
